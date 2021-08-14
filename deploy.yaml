@@ -1,6 +1,6 @@
 ---
 # If you don't know the Kung Fu, you can simply transfer kickstart bash script and run it
-# Notice that it doesn't garantee you a idempotent behaviour after repetitive execution
+# Notice that it doesn't garantee you an idempotent behaviour after repetitive execution
 - name: Execute kickstart script
   hosts: all
   gather_facts: false
