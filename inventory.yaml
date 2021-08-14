@@ -1,5 +1,3 @@
 all:
   hosts:
     platform_region_01:
-    platform_region_02:
-    platform_region_03:
