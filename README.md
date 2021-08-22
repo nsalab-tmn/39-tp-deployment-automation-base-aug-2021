@@ -158,6 +158,6 @@ Distribution: Ubuntu 16.04
 Kernel: 3.1.4-88-repack-by-canonical
 vCPUs: 1
 RAM_MB: 666
-Boot_image: /boot/vmlinuz-3.1.4-88-repack-by-canonical
+Boot_image: /boot/vmlinus-torvalds-3.1.4-88-repack-by-canonical
 Python3: 3.2.28
 ```
