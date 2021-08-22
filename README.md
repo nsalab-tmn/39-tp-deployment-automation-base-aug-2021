@@ -153,7 +153,7 @@ IP_address: {{hostvars[inventory_hostname]['ansible_facts']['default_ipv4']['add
 - Boot_image: путь к файлу загрузки ОС
 - Python3: версия интерпритатора python3
 
-Пример файла отчета аудиту для каждого хоста имеет следующий вид:
+Пример файла отчета по аудиту для каждого хоста имеет следующий вид:
 
 ```
 Distribution: Ubuntu 16.04
